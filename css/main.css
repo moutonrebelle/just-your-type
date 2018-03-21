@@ -66,7 +66,7 @@ h2 {
 
 @media only screen and (min-width: 90em) {
 
-  html {
+  article {
   background: #11291b;
   transition: background 2s;
   }
