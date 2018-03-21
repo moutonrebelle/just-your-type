@@ -10,12 +10,10 @@ article {
 h1 {
   color: rgba(255, 255, 255, 0.1);
   font-family: Sacramento;
-  font-weight: lighter;
 }
 
 h2 {
   font-family: lato;
-  font-weight: lighter;
   position: relative;
   float: left;
   top: 50%;
