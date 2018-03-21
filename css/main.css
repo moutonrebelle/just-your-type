@@ -5,6 +5,7 @@ html {
 article {
   background: #0a2222;
   color: #fff;
+  transition: background 2s;
 }
 
 h1 {
@@ -34,4 +35,39 @@ h2 {
   border: 1px solid #fff;
   width: 150px;
   height: 150px;
+}
+
+@media only screen and (min-width: 25em) {
+
+  article {
+  background: #fff;
+  transition: background 2s;
+  }
+
+}
+
+@media only screen and (min-width: 38em) {
+
+  article {
+  background: red;
+  transition: background 2s;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  article {
+  background: red;
+  transition: background 2s;
+  }
+
+}
+
+@media only screen and (min-width: 90em) {
+
+  html {
+    font-size: 130%;
+  }
+
 }
