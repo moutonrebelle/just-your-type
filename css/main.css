@@ -3,7 +3,7 @@ html {
 }
 
 article {
-  background: #0a2222;
+  background: #6c716c;
   color: #fff;
   transition: background 2s;
 }
@@ -40,7 +40,7 @@ h2 {
 @media only screen and (min-width: 25em) {
 
   article {
-  background: #fff;
+  background: #293569;
   transition: background 2s;
   }
 
@@ -49,7 +49,7 @@ h2 {
 @media only screen and (min-width: 38em) {
 
   article {
-  background: red;
+  background: #9a4b46;
   transition: background 2s;
   }
 
@@ -58,7 +58,7 @@ h2 {
 @media only screen and (min-width: 60em) {
 
   article {
-  background: red;
+  background: #977b49;
   transition: background 2s;
   }
 
@@ -67,7 +67,8 @@ h2 {
 @media only screen and (min-width: 90em) {
 
   html {
-    font-size: 130%;
+  background: #11291b;
+  transition: background 2s;
   }
 
 }
