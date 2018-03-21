@@ -40,8 +40,8 @@ h2 {
 @media only screen and (min-width: 25em) {
 
   article {
-  background: #293569;
-  transition: background 2s;
+    background: #293569;
+    transition: background 2s;
   }
 
 }
@@ -49,8 +49,8 @@ h2 {
 @media only screen and (min-width: 38em) {
 
   article {
-  background: #9a4b46;
-  transition: background 2s;
+    background: #9a4b46;
+    transition: background 2s;
   }
 
 }
@@ -58,8 +58,8 @@ h2 {
 @media only screen and (min-width: 60em) {
 
   article {
-  background: #977b49;
-  transition: background 2s;
+    background: #977b49;
+    transition: background 2s;
   }
 
 }
@@ -67,8 +67,8 @@ h2 {
 @media only screen and (min-width: 90em) {
 
   article {
-  background: #11291b;
-  transition: background 2s;
+    background: #11291b;
+    transition: background 2s;
   }
 
 }
